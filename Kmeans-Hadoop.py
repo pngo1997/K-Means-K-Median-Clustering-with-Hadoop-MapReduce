@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### Student Name: Mai Ngo
-# #### Course Name and Number: CSC 555 Big Data Mining
-# #### Final Exam
-# #### Date: 11/21/2023
-
 # ## Part 1.1
 
 # ### Generated data: 2,000,000 rows and 5 columns.
